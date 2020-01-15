@@ -8,7 +8,10 @@
   },
   "jest": {
     "collectCoverage": true,
-    "coverageReporters": ["html", "text"]
+    "coverageReporters": [
+      "html",
+      "text"
+    ]
   },
   "repository": {
     "type": "git",
