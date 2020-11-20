@@ -26,6 +26,6 @@
   "homepage": "https://github.com/valentinogagliardi/getting-started-with-jest#readme",
   "devDependencies": {
     "jest": "^24.9.0",
-    "prettier": "^1.18.2"
+    "prettier": "^2.2.0"
   }
 }
